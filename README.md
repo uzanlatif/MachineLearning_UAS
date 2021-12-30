@@ -21,8 +21,10 @@ Program tersebut adalah program yang menghasilkan sistem clustering kelas berdas
  Program tersebut memiliki 2 versi yaitu menggunakan bahasa python dan bahasa R
  
  Dalam bahasa python kita menggunakan Jupyter Notebook dapat diakses pada file "KMeans Machine Learning.ipynb"
+ Disini hasil akhir yang didapat adalah dapat melihat plot clustering yang ada dan dapat menemukan titik centroid masing2 cluster
  
  Dalam bahasa R kita menggunakan Rstudio dapat diakses pada file "/R version/MachineLearning.rmd"
+ Dsini hasil akhir yang didapat adalah dapat melihat titik centroid tiap cluster dan juga dapat melihat plot cluster, serta membuat tabel baru tiap siswa dan hasil clustering contohnya adalah "Siswa A dengan nilai sekian masuk dalam kluster 1"
  
  ## Author
  Abdul Latif Fauzan 123190068
