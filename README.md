@@ -16,6 +16,14 @@ Program tersebut adalah program yang menghasilkan sistem clustering kelas berdas
  
  Data tersebut sudah melewati data cleansing dan sudah bisa digunakan dengan baik
  
+ ## Hasil
+ 
+ Program tersebut memiliki 2 versi yaitu menggunakan bahasa python dan bahasa R
+ 
+ Dalam bahasa python kita menggunakan Jupyter Notebook dapat diakses pada file "KMeans Machine Learning.ipynb"
+ 
+ Dalam bahasa R kita menggunakan Rstudio dapat diakses pada file "/R version/MachineLearning.rmd"
+ 
  ## Author
  Abdul Latif Fauzan 123190068
  <br>
