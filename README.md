@@ -1,7 +1,14 @@
 ## Proyek Akhir Machine Learning
+
+
+## Description
+
+Program tersebut adalah program yang menghasilkan sistem clustering kelas berdasarkan nilai dengan metode K-Means
  
  ## Dataset
  Data tersebut menggunakan data yang diambil dari data ujian akhir siswa kelas 10 SMA N 1 Wonosari tahun 2021
+ 
+ Penelitian ini menggunakan data primer yang diambil dari data SMA 1 Wonosari dengan 251 dataset.
  
  Data Utama/Data sebelum diubah adalah "2021=PAT10KD.xlsx"
  
